@@ -1,4 +1,0 @@
-#include <stdio>
-123
-Hello World
-World
